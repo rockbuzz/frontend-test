@@ -7,7 +7,7 @@
  - Os tweets devem vir de uma api fake;
  - Deve ser possívem favoritar um tweet;
  
-### Tecnologias
+### Tecnologias requeridas
 
  - [NuxtJS](https://nuxtjs.org)
  - [TailwindCSS](https://tailwindcss.com)
