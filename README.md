@@ -16,9 +16,10 @@
 ### Diferenciais
 
 1. Design criativo, profissional e com técnicas de UX/UI;
-2. Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
-3. Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
-4. Tempo de conclusão.
+2. [Versionamento Semántico](https://semver.org/lang/pt-BR) e [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0)
+3. Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
+4. Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
+5. Tempo de conclusão.
 
 ### Orientações
 
