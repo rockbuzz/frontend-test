@@ -20,3 +20,8 @@
 3. Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
 4. Tempo de conclusão.
 
+### Orientações
+
+ - Disponibilizar em um repositório GIT;
+ - Documentar os requisitos e ações para rodar em um ambiente local;
+ - Notificar o termino em nossos canais de comunicação.
