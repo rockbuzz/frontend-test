@@ -9,15 +9,14 @@
  
 ### Tecnologias
 
- - <a target='_blank' href="https://nuxtjs.org">NuxtJS</a>
- - [NuxtJS](https://nuxtjs.org/ "title" target="_blank")
- - [TailwindCSS](https://tailwindcss.com "title" target="_blank")
- - [MirageJS](https://miragejs.com/?target=_blank)
+ - [NuxtJS](https://nuxtjs.org)
+ - [TailwindCSS](https://tailwindcss.com)
+ - [MirageJS](https://miragejs.com)
 
 ### Diferenciais
 
 1. Design atrativo, profissional e com técnicas de UX/UI;
-2. Testes automátizados com [Jest](https://jestjs.io/pt-BR/?target=_blank) e [Cypress](https://www.cypress.io/?target=_blank);
+2. Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
 3. Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
 4. Tempo de conclusão.
 
