@@ -9,8 +9,8 @@
  
 ### Tecnologias
 
- - [NuxtJS](https://nuxtjs.org){: target="_blank"}
- - [TailwindCSS](https://tailwindcss.com/?target=_blank)
+ - [NuxtJS](https://nuxtjs.org/ "title" target="_blank")
+ - [TailwindCSS](https://tailwindcss.com "title" target="_blank")
  - [MirageJS](https://miragejs.com/?target=_blank)
 
 ### Diferenciais
