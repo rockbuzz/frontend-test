@@ -15,7 +15,7 @@
 
 ### Diferenciais
 
-1. Design atrativo, profissional e com técnicas de UX/UI;
+1. Design criativo, profissional e com técnicas de UX/UI;
 2. Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
 3. Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
 4. Tempo de conclusão.
