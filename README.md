@@ -4,7 +4,7 @@
 
 ### Criar uma interface com base no wireframe acima
 
- - Os tweets devem ser vir de uma api fake;
+ - Os tweets devem vir de uma api fake;
  - Deve ser possívem favoritar um tweet;
  
 ### Tecnologias
