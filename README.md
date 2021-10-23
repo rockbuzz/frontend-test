@@ -6,7 +6,7 @@
 
 #### Funcionalidades requeridas
 
- - Os tweets devem vir de uma api fake;
+ - Os tweets devem vir de uma [API simulada](https://miragejs.com);
  - Deve ser possívem favoritar um tweet;
  
 #### Tecnologias requeridas
