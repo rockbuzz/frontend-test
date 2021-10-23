@@ -25,8 +25,8 @@
 #### Orientações
 
  - Disponibilizar em um repositório GIT;
- - Documentar os requisitos e ações para rodar em um ambiente local;
+ - Documentar os requisitos e ações necessárias para rodar em um ambiente local;
  - Notificar a conclusão em nossos canais de comunicação.
 
 *A conclusão e entrega do teste não garante a contratação, tampouco terá qualquer tipo de reembolso, 
-o mesmo deve ser visto como uma oportunidade de agregar valor ao seu portfólio.*
+o mesmo deve ser considerado como uma oportunidade de agregar valor ao seu portfólio.*
