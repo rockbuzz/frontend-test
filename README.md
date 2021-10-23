@@ -18,10 +18,9 @@
 1. Design criativo, profissional e com técnicas de UX/UI;
 2. [Atomic Design](https://atomicdesign.bradfrost.com)
 3. [PWA](https://pt.wikipedia.org/wiki/Progressive_web_app)
-4. [Versionamento Semántico](https://semver.org/lang/pt-BR) e [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0)
-5. Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
-6. Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
-7. Tempo de conclusão.
+4. Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
+5. Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
+6. Tempo de conclusão.
 
 ### Orientações
 
