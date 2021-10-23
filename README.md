@@ -20,7 +20,6 @@
  - [PWA](https://pt.wikipedia.org/wiki/Progressive_web_app)
  - Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
  - Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
- - Tempo de conclusão.
 
 ### Orientações
 
