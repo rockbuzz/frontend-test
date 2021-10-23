@@ -15,12 +15,12 @@
 
 ### Diferenciais
 
-1. Design criativo, profissional e com técnicas de UX/UI;
-2. [Atomic Design](https://atomicdesign.bradfrost.com)
-3. [PWA](https://pt.wikipedia.org/wiki/Progressive_web_app)
-4. Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
-5. Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
-6. Tempo de conclusão.
+ - Design criativo, profissional e com técnicas de UX/UI;
+ - [Atomic Design](https://atomicdesign.bradfrost.com)
+ - [PWA](https://pt.wikipedia.org/wiki/Progressive_web_app)
+ - Testes automátizados com [Jest](https://jestjs.io/pt-BR) e [Cypress](https://www.cypress.io);
+ - Funcionalidades extras como perfil de usuário, comentários, filtros, etc...
+ - Tempo de conclusão.
 
 ### Orientações
 
