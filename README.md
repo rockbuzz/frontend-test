@@ -29,4 +29,4 @@
  - Notificar o termino em nossos canais de comunicação.
 
 *A conclusão e entrega do teste não garante a contratação, tampouco terá qualquer tipo de reembolso, 
-o mesmo deve ser visto como uma oportunidade de agregar valor ao seu portfólio/github.*
+o mesmo deve ser visto como uma oportunidade de agregar valor ao seu portfólio.*
