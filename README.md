@@ -2,7 +2,9 @@
 
 ![Alt text](twitter-wireframe.jpg?raw=true "Clone Twitter")
 
-### Criar uma interface com base no wireframe acima
+# O teste consiste em implementar uma interface responsiva/fluída com base no wireframe acima.
+
+### Funcionalidades requeridas
 
  - Os tweets devem vir de uma api fake;
  - Deve ser possívem favoritar um tweet;
@@ -26,3 +28,6 @@
  - Disponibilizar em um repositório GIT;
  - Documentar os requisitos e ações para rodar em um ambiente local;
  - Notificar o termino em nossos canais de comunicação.
+
+**A conclusão e entrega do teste não garante a contratação, tampouco terá qualquer tipo de reembolso, 
+o mesmo deve ser visto como uma oportunidade de fortalecer seu portfólio/github.**
